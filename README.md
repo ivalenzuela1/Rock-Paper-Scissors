@@ -6,16 +6,16 @@ Runs automatically until one player has three wins
 
 <h3>Features:</h3>
 
-*Stores the player names and number of wins for each player in variable
+* Stores the player names and number of wins for each player in variable
 
-*Uses a while loop to run the game until one player has 3 wins
+* Uses a while loop to run the game until one player has 3 wins
 
-*Outputs each player's hand to the console
+* Outputs each player's hand to the console
 
-*Uses an if statement to determine a winner of the round
+* Uses an if statement to determine a winner of the round
 
-*Outputs the round winner's name to the console
+* Outputs the round winner's name to the console
 
-*Tracks how many rounds each player has won
+* Tracks how many rounds each player has won
 
-*When one player wins 3 rounds, it announces that player's name as the game winner
+* When one player wins 3 rounds, it announces that player's name as the game winner
